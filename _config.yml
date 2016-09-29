@@ -84,3 +84,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+  <!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
