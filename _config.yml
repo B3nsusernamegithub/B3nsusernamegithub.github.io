@@ -87,7 +87,4 @@ exclude:
   
 # making a table 
 
-table, th, td {
-   border: 15px solid black;
-}
 
