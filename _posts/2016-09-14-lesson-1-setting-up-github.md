@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td>To make a website on github</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> My target for this lesson is to set up GitHub.</td>
+    <td> I did manage to create a website with some assistance </td>
   </tr>
 </table>
 
@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to be more independant and also practice typing at home</td>
+    <td>I will try to be more independant and also practice typing at home the way I can improve this is to search up the ways on websites like w3schools instead of asking my freinds this</td>
   </tr>
 </table>
 
