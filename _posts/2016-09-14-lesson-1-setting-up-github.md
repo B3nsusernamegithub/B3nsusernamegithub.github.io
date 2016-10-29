@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>The way I learnt to set up github is by listening to the teacher and taking down notes so that I could use the notes when I had to set up github. Also I had a look on the slides because there was an area that I didn't know what to do.</td>
+    <td>The way I learnt to set up github is by listening to the teacher and taking down notes so that I could use the notes when I had to set up github. This was effective because it meant that I could go away and do the thing Mr Keen set use with out forgeting anything.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The things that will improve my learning are working faster and also another thing is to not ask people for help.</td>
+    <td>The things that will improve my learning are working faster and also another thing is to not ask people for help. This will help me to be a more independant learner andf should mean that I can remember and conserntrate more.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to be more independant and also practice typing at home the way I can improve this is to search up the ways on websites like w3schools instead of asking my freinds this</td>
+    <td>I will try to be more independant and also practice typing at home the way I can improve this is to search up the ways on websites like w3schools instead of asking my freinds this.</td>
   </tr>
 </table>
 
