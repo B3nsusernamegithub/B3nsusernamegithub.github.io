@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>The way I learnt to set up github is by listening to the teacher and taking down notes so that I could use the notes when I had to set up github. This was effective because it meant that I could go away and do the thing Mr Keen set use with out forgeting anything.</td>
+    <td>The way I learnt to set up github is by listening to the teacher and taking down notes so that I could use the notes when I had to set up github. This was effective because it meant that I could go away and do the thing Mr Keen set use with out forgeting anything. another thing that was effective was to look at the slides on classsroom.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
