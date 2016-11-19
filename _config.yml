@@ -7,7 +7,9 @@ name: Ben Eggleton
 
 # Short bio or description (displayed in the header)
 description: student and blogger
-colour=#ffffff
+{
+colour;#ffffff
+}
 # URL of y=four avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png
 
